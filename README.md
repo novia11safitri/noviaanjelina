@@ -1,2 +1,1 @@
-# noviaanjelina
-tugas latihan 4 pemanpil gambar
+# WulanAisyah_19630070_PenentuJumlahHari
